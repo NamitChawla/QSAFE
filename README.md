@@ -145,7 +145,7 @@ Layer 4: RZZ(sf*·xi·xj) — encodes pairwise descriptor interactions
 | LogReg | 196 | 0.7333±0.047 | 0.7256±0.025 | 0.5400±0.055 | 0.7978±0.046 | 0.5052±0.069 |
 
 **Key finding:** QSAFE achieves SEN = 0.6467 — a **61.7% relative improvement**
-over Random Forest (SEN = 0.4000) — using 32× fewer features.
+over Random Forest (SEN = 0.4000) — using lesser features.
 
 ---
 
