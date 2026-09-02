@@ -66,14 +66,14 @@ QSAFE/
 
 ## Dataset
 
-The Guo et al. 2022 benchmark dataset is used:
+The dataset includes:
 - **Training set:** 477 compounds (118 DIA-positive, 359 DIA-negative)
 - **Test set:** 120 compounds (30 DIA-positive, 90 DIA-negative)
 - **Features:** 196 RDKit molecular descriptors
 
 > The dataset is not included in this repository.
-> Please refer to: Guo et al. (2022), *Frontiers in Immunology*,
-> doi: 10.3389/fimmu.2022.1015409
+> Please refer to: https://archive.ics.uci.edu/dataset/1104/drug_induced_autoimmunity_prediction,
+> doi: 10.3389/fimmu.2022.1015409](https://doi.org/10.1016/j.tox.2025.154064
 
 ---
 
