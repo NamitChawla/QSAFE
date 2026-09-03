@@ -175,4 +175,3 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 This work was conducted at IIIT Una.
 Quantum simulation performed using the Qiskit statevector simulator.
-Dataset from Guo et al. (2022), Frontiers in Immunology.
